@@ -54,64 +54,64 @@ python3 script_name.py
 ```
 
 ## Scripts
-1. Email Automation
+## 1. Email Automation
 Automates the process of sending emails.
 
-2. Data Entry Automation
+## 2. Data Entry Automation
 Automates data entry tasks and saves the data to a CSV file.
 
-3. File Management
+## 3. File Management
 Allows users to rename or move files.
 
-4. Report Generation
+## 4. Report Generation
 Generates reports from CSV data and optionally creates plots.
 
-5. Meeting Scheduler
+## 5. Meeting Scheduler
 Helps schedule meetings by specifying date, time, and subject.
 
-6. Web Scraping
+## 6. Web Scraping
 Scrapes data from a specified URL.
 
-7. Employee Onboarding
+## 7. Employee Onboarding
 Creates an onboarding folder and welcome file for new employees.
 
-8. Expense Tracking
+## 8. Expense Tracking
 Tracks expenses and saves them to a CSV file.
 
-9. Performance Metrics
+## 9. Performance Metrics
 Generates performance metrics from CSV data and optionally creates plots.
 
-10. Task Management
+## 10. Task Management
 Creates or updates tasks using a task management API.
 
-11. Social Media Posting
+## 11. Social Media Posting
 Automates posting messages to social media platforms like Twitter and Facebook.
 
-12. Backup Files
+## 12. Backup Files
 Backs up files from a source directory to a backup directory.
 
-13. Text Translation
+## 13. Text Translation
 Translates text to a specified language using the Google Translate API.
 
-14. Weather Forecast
+## 14. Weather Forecast
 Fetches weather forecast data for a specified city.
 
-15. Convert Currency
+## 15. Convert Currency
 Converts currency amounts using the ExchangeRate-API.
 
-16. PDF Merger
+## 16. PDF Merger
 Merges multiple PDF files into one.
 
-17. Slack Notifications
+## 17. Slack Notifications
 Sends notifications to a Slack channel using a webhook.
 
-18. Website Status Checker
+## 18. Website Status Checker
 Checks the status of a specified website.
 
-19. Generate QR Code
+## 19. Generate QR Code
 Generates a QR code from provided data.
 
-20. Time Tracker
+## 20. Time Tracker
 Tracks time spent on tasks.
 
 ## License: 
