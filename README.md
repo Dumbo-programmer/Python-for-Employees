@@ -49,9 +49,8 @@ cd python-for-employees
 ```
 Install the required dependencies
 ## Usage
-```
-python3 script_name.py
-```
+![image](https://github.com/user-attachments/assets/9d34a6ac-c91e-429e-a8d9-287b48691907)
+
 
 ## Scripts
 ## 1. Email Automation
